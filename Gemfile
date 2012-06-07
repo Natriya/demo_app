@@ -14,7 +14,7 @@ gem 'activerecord-postgresql-adapter'
 # in production environments by default.
 
 
-gem 'jquery-rails'
+# gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
